@@ -1,4 +1,5 @@
 #------------------------Stock Price History Analysis------------------------
+#          ------------------------Xuan Wang------------------------
 
 import quandl as ql
 import pandas as pd
