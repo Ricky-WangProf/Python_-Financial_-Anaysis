@@ -5,3 +5,5 @@
 ### All historical data are come from quandl dataset. I have provided the API key for demonstration purpose. Please register your own account to setup using your own API key (Please see comment in python code file).
 
 ### Below are some screenshots from this project:
+![](https://github.com/Ricky-WangProf/Python_Stock_Prices_Analysis/blob/master/Bollinger%20Band%20Plot.JPG)
+![](https://github.com/Ricky-WangProf/Python_Stock_Prices_Analysis/blob/master/clustermap.JPG)
